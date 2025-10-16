@@ -1,5 +1,12 @@
 # 🌐 Streamify – Real-Time Chat & Video Application
-
+## 📚 Table of Contents
+- [Overview](#-overview)
+- [Objectives](#-objectives)
+- [Tech Stack](#-tech-stack)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 ## 📘 Overview
 **Streamify** is a full-stack web application that enables users to engage in secure, real-time chat and video calls.  
 It integrates WebRTC for peer-to-peer communication and Socket.io for instant message updates.  
